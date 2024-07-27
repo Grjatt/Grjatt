@@ -1,0 +1,46 @@
+#home h1{
+    padding-left: 33px;
+    font-size: 3rem;
+}
+#home {
+    height: 213px;
+}
+.btn1 {
+    padding-left: 38px;
+}
+.btn{
+    padding: 7px
+}
+.me {
+    padding-top: 25px;
+    font-size: 3em;
+}
+#menu p{
+    padding-left: 107px;
+    padding-right: 118px;
+    text-align: center;
+}
+#boxes {
+    flex-direction: column;
+}
+#section-1 .box3 {
+    height: 123px;
+    width: 123px;
+    border-radius: 175px;
+    margin-left: 40px;
+}
+#textarea {
+    margin-left: -27px;
+    padding: 4px;
+    padding-left: 204px;
+    padding-right: 23px;
+}
+#section-2 {
+    display: none;
+}
+    /* margin-top: 28px;
+}
+#c1 .b1 {
+    height: 78px;
+    width: 98px;
+} */
